@@ -1,7 +1,7 @@
 # BookManager
 Small Java Project used to manage books
 
-#Screenshot
+# Screenshot
 ![alt text](https://github.com/Nlarou/BookManager/blob/main/Screenshot/1.png?raw=true)
 ![alt text](https://github.com/Nlarou/BookManager/blob/main/Screenshot/2.png?raw=true)
 ![alt text](https://github.com/Nlarou/BookManager/blob/main/Screenshot/3.png?raw=true)
